@@ -329,7 +329,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
             sprite = SKSpriteNode(imageNamed: "three")
         }
         else if type == .Two{
-            sprite = SKSpriteNode(imageNamed: "two.jpg")
+            sprite = SKSpriteNode(imageNamed: "two")
         }
         else {
             sprite = SKSpriteNode(imageNamed: "one")

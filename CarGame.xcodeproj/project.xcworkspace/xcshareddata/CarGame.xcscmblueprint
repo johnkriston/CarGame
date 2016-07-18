@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64A358E4CA525217C504BE6BDDB7597147429244",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91189E407B084C39E74AFD3361DF36174A918AA5" : 0,
+    "64A358E4CA525217C504BE6BDDB7597147429244" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9075908D-66B7-48AD-B29A-12D0BB8B1864",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91189E407B084C39E74AFD3361DF36174A918AA5" : "..\/..",
+    "64A358E4CA525217C504BE6BDDB7597147429244" : "CarGame\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CarGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CarGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/johnkriston\/CarGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64A358E4CA525217C504BE6BDDB7597147429244"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/projects.git.vip.facebook.com\/data\/gitrepos\/fbu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91189E407B084C39E74AFD3361DF36174A918AA5"
+    }
+  ]
+}
